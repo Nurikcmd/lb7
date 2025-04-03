@@ -1,4 +1,4 @@
-package com.example.gg
+package com.example.nursat
 
 import android.content.Context
 import android.content.Intent
